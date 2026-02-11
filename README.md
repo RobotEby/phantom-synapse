@@ -1,3 +1,5 @@
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/40828ea3-1dd5-4f0b-b013-27adbb9473cf" />
+
 # Phantom Synapse - Silent TCP Port Scanner
 
 Phantom Synapse is a fast and silent TCP port scanner, developed in Python, that allows checking whether specific TCP ports are open, closed, or filtered on a target host. The scanner uses the Scapy library to send TCP SYN packets and analyze responses to determine the port state.
